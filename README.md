@@ -1,5 +1,5 @@
 # alfred zhihu
 
-![image](./zhihu.png)
+![image](./tuwei.png)
 
 [下载](./土味情话.alfredworkflow)
